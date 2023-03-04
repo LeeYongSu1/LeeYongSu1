@@ -2,7 +2,8 @@
 
 - Hello, I'm a second-year developer.
 - I am mainly developing games and web.
-
+<br></br>
+<br></br>
 <div align="center"> :wrench:  Tech  :wrench: </div>
 <br></br>
 <div align="center">
@@ -26,7 +27,15 @@
 <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=Oracle&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Postgre-4169E1.svg?style=flat-square&logo=PostgreSQL&logoColor=white"/> 
 </div>
-<!--
+<br></br>
+<div align="center" style="font: bold italic 5.0em/3.0em;" >
+My Projects
+</div>
+<div align="center"> 
+<img src="https://user-images.githubusercontent.com/80555875/222906424-665b4e2a-dc08-4c37-a2e8-21882b1fc110.png"  width="35%" height="35%">
+<img src="/uploads/1848994ad25765da30fa8ef3684c67bc/캡처.PNG"  width="350" height="350">
+</div>
+  <!--
 **LeeYongSu1/LeeYongSu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
