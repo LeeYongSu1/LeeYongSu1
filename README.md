@@ -31,9 +31,10 @@
 <div align="center" style="font: bold italic 5.0em/3.0em;" >
 My Projects
 </div>
+<br></br>
 <div align="center"> 
-<img src="https://user-images.githubusercontent.com/80555875/222906424-665b4e2a-dc08-4c37-a2e8-21882b1fc110.png"  width="35%" height="35%">
-<img src="/uploads/1848994ad25765da30fa8ef3684c67bc/캡처.PNG"  width="350" height="350">
+<img src="https://user-images.githubusercontent.com/80555875/222906424-665b4e2a-dc08-4c37-a2e8-21882b1fc110.png"  width="400px" height="400px">
+<img src="https://user-images.githubusercontent.com/80555875/222906923-b27f25b3-867e-4982-b432-a6f3c3d0552b.jpg"  width="400px" height="400px">
 </div>
   <!--
 **LeeYongSu1/LeeYongSu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
