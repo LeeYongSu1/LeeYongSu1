@@ -4,7 +4,11 @@
 - I am mainly developing games and web.
 <br></br>
 <br></br>
+
 <div align="center"> :wrench:  Tech  :wrench: </div>
+
+***
+
 <br></br>
 <div align="center">
 <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=flat-square&logo=Unity&logoColor=black"/> 
@@ -22,20 +26,34 @@
 <img src="https://img.shields.io/badge/Java-FC4C02.svg?style=flat-square&logoColor=black"/> 
 
 </div>
-</div>
+
 <div align="center">
 <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=Oracle&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Postgre-4169E1.svg?style=flat-square&logo=PostgreSQL&logoColor=white"/> 
 </div>
+
 <br></br>
-<div align="center" style="font: bold italic 5.0em/3.0em;" >
-My Projects
+<div align="center">
+  
+  :small_blue_diamond: My Projects :small_blue_diamond:
+  
+</div>
+
+***
+
+<br></br>
+
+<div align="center"> 
+<img src="https://user-images.githubusercontent.com/80555875/222906424-665b4e2a-dc08-4c37-a2e8-21882b1fc110.png"  width="300px" height="300px">
+<img src="https://user-images.githubusercontent.com/80555875/222906923-b27f25b3-867e-4982-b432-a6f3c3d0552b.jpg"  width="300px" height="300px">
 </div>
 <br></br>
 <div align="center"> 
-<img src="https://user-images.githubusercontent.com/80555875/222906424-665b4e2a-dc08-4c37-a2e8-21882b1fc110.png"  width="400px" height="400px">
-<img src="https://user-images.githubusercontent.com/80555875/222906923-b27f25b3-867e-4982-b432-a6f3c3d0552b.jpg"  width="400px" height="400px">
+play videos
 </div>
+<div align="center"> 
+  <video src="https://user-images.githubusercontent.com/80555875/222915387-1cce9f57-dadc-4ea0-8869-446bff23ee37.mp4"  width="300px" height="300px">
+ </div>
   <!--
 **LeeYongSu1/LeeYongSu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
