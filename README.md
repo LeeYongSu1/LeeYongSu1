@@ -1,4 +1,4 @@
-# :sunny: Aboutme 
+# :sunny: About me 
 
 - Hello, I'm a second-year developer.
 - I am mainly developing games and web.
