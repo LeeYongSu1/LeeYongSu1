@@ -9,7 +9,7 @@
 
 3．[リンク](#リンク)
 
-4．[機能](#機能)
+4．[担当機能](#担当機能)
 
 5．[動画](#動画)
 
@@ -41,7 +41,7 @@
 https://web.zepeto.me/ko/detail/Zj0Sj3wK87LthiJ4gSx17nl?referrer=copylink_share
 https://web.zepeto.me/ko/detail/3Ytdz3wK87WttUKXboGVFiH?referrer=copylink_share
 
-## 📋機能
+## 📋担当機能
 - マルチプレイ機能
 - インタラクション
 - クエスト
