@@ -67,6 +67,7 @@ https://web.zepeto.me/ko/detail/3Ytdz3wK87WttUKXboGVFiH?referrer=copylink_share
  ## 👶練習プロジェクト
   ### [Photon2 練習](https://github.com/LeeYongSu1/Photon2)
   ### [STARBUCKS ウェブサイト](https://github.com/LeeYongSu1/starbucks)
+　### [初制作プロジェクト](https://github.com/LeeYongSu1/YS_GAME_1)
   <!--
 **LeeYongSu1/LeeYongSu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
