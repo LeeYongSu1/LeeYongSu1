@@ -62,8 +62,8 @@ https://web.zepeto.me/ko/detail/3Ytdz3wK87WttUKXboGVFiH?referrer=copylink_share
  <div align="left"> 
   <video src="https://user-images.githubusercontent.com/80555875/222964595-03e14e36-0cde-4e1c-b94b-4e189b70a862.mp4"  width="300px" height="300px">
  </div>
- <br></br>
- <br></br>
+
+  
  ## 👶練習プロジェクト
  ### [Photon2](https://github.com/LeeYongSu1/Photon2)
   <!--
